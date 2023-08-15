@@ -213,3 +213,7 @@ replace github.com/robfig/cron/v3 => github.com/unionai/cron/v3 v3.0.2-0.2022091
 // Retracted versions
 // This was published in error when attempting to create 1.5.1 Flyte release.
 retract v1.1.94
+
+replace github.com/flyteorg/stow => github.com/gvashishtha/stow v0.0.0-20230815233304-f9600ea4dbcd
+
+replace github.com/flyteorg/flytestdlib => github.com/gvashishtha/flytestdlib v0.0.0-20230815233628-59b3c283cdca
