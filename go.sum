@@ -295,6 +295,8 @@ github.com/flyteorg/flyteidl v1.5.13 h1:IQ2Cw+u36ew3BPyRDAcHdzc/GyNEOXOxhKy9jbS4
 github.com/flyteorg/flyteidl v1.5.13/go.mod h1:EtE/muM2lHHgBabjYcxqe9TWeJSL0kXwbI0RgVwI4Og=
 github.com/flyteorg/flyteplugins v1.1.16 h1:DIQxPERFMvTGnLTkkeG9R8STF3YMvxK1nPtFf+a6o5Q=
 github.com/flyteorg/flyteplugins v1.1.16/go.mod h1:HEd4yf0H8XfxMcHFwrTdTIJ/9lEAz83OpgcFQe47L6I=
+github.com/flyteorg/flytepropeller v1.1.98 h1:Zk2ENYB9VZRT5tFUIFjm+aCkr0TU2EuyJ5gh52fpLoA=
+github.com/flyteorg/flytepropeller v1.1.98/go.mod h1:R0CB6Uzp9F4YyvPmLRE7XyXxDebAPFD+LbHTf07mBzI=
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/fogleman/gg v1.3.0/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/form3tech-oss/jwt-go v3.2.2+incompatible/go.mod h1:pbq4aXjuKjdthFRnoDwaVPLA+WlJuPGy+QneDUgJi2k=
@@ -814,12 +816,10 @@ github.com/grpc-ecosystem/grpc-gateway v1.16.0 h1:gmcG1KaJ57LophUzW0Hy8NmPhnMZb4
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/gtank/cryptopasta v0.0.0-20170601214702-1f550f6f2f69 h1:7xsUJsB2NrdcttQPa7JLEaGzvdbk7KvfrjgHZXOQRo0=
 github.com/gtank/cryptopasta v0.0.0-20170601214702-1f550f6f2f69/go.mod h1:YLEMZOtU+AZ7dhN9T/IpGhXVGly2bvkJQ+zxj3WeVQo=
-github.com/gvashishtha/flytepropeller v0.0.0-20230816003414-055423345b4f h1:kLn+xY3AAmsASwIvR4pI1h5c9w6rn7VeWPw1/xOXabw=
-github.com/gvashishtha/flytepropeller v0.0.0-20230816003414-055423345b4f/go.mod h1:rMvW0wHaidluABiotOFS+7MA12lBbCE6IVubPkp8hRg=
-github.com/gvashishtha/flytestdlib v0.0.0-20230815233628-59b3c283cdca h1:wYiz4/n1F5aCTDgRPRN7ssgfPmPpPSjsCqAGGlASjuQ=
-github.com/gvashishtha/flytestdlib v0.0.0-20230815233628-59b3c283cdca/go.mod h1:RQZ+wg34gB5gvSz/wSCUdhnyVwai9mpwKOND4A264uY=
-github.com/gvashishtha/stow v0.0.0-20230815233304-f9600ea4dbcd h1:ohEjfB9OqU9rbBWNh//1q7UutxtEUvKdyRRgm6zmT2w=
-github.com/gvashishtha/stow v0.0.0-20230815233304-f9600ea4dbcd/go.mod h1:5dfBitPM004dwaZdoVylVjxFT4GWAgI0ghAndhNUzCo=
+github.com/gvashishtha/flytestdlib v0.0.0-20230816152233-10be184a39f8 h1:tZDh/Tf7AxOPqbs4xSRYXsm/iKUEwo0JF/OTgQbs0Wk=
+github.com/gvashishtha/flytestdlib v0.0.0-20230816152233-10be184a39f8/go.mod h1:jt3KTS/r7hz+DJkrDTMtVoPlrn5jkaLTOfEJ1BOUk2Y=
+github.com/gvashishtha/stow v0.0.0-20230816152125-9d042ccd8a81 h1:scAx7KMyqA1FlzyDpIZGEkcJZX1W2jBGq99uwBvmaH8=
+github.com/gvashishtha/stow v0.0.0-20230816152125-9d042ccd8a81/go.mod h1:5dfBitPM004dwaZdoVylVjxFT4GWAgI0ghAndhNUzCo=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/sdk v0.1.1/go.mod h1:VKf9jXwCTEY1QZP2MOLRhb5i/I/ssyNV1vwHyQBF0x8=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
